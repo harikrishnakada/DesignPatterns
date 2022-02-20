@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChainOfResponsibility
 {
-    public class WarnLogger: ILogger
+    public class ErrorLogger : ILogger
     {
         private ILogger _nextLogger;
 
