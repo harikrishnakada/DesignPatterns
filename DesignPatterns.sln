@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{04201536-BBE3-4040-A603-C9C91EE1DFC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{04201536-BBE3-4040-A603-C9C91EE1DFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{365C5F8C-D740-4F7E-99AE-6C28039B532A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{04201536-BBE3-4040-A603-C9C91EE1DFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04201536-BBE3-4040-A603-C9C91EE1DFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04201536-BBE3-4040-A603-C9C91EE1DFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365C5F8C-D740-4F7E-99AE-6C28039B532A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365C5F8C-D740-4F7E-99AE-6C28039B532A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365C5F8C-D740-4F7E-99AE-6C28039B532A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365C5F8C-D740-4F7E-99AE-6C28039B532A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
